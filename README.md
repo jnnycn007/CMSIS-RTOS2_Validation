@@ -1,3 +1,6 @@
+[![License Apache--2.0](https://img.shields.io/badge/License-Apache--2.0-green?label=License)](https://github.com/Arm-Software/CMSIS-RTOS2_Validation/blob/main/LICENSE)
+[![Build pack](https://img.shields.io/github/actions/workflow/status/Arm-Software/CMSIS-RTOS2_Validation/build.yml?logo=arm&logoColor=0091bd&label=Build%20pack)](./.github/workflows/build.yml)
+
 # CMSIS-RTOS2 Validation
 
 This repository contains a test suite that validates CMSIS-RTOS2 implementations. It uses [**Arm Virtual Hardware**](https://www.arm.com/virtual-hardware) to run a CI/CD flow to verify correct operation of the real-time operating systems (RTOS) under test on various Arm Cortex-M based processors.
